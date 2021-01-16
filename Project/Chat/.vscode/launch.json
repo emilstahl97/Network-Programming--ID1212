@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChatRoomsApplication",
+            "request": "launch",
+            "mainClass": "com.kth.ChatRoomsApplication",
+            "projectName": "chat-rooms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChatRoomsApplication",
+            "request": "launch",
+            "mainClass": "me.amarpandey.ChatRoomsApplication",
+            "projectName": "chat-rooms"
+        }
+    ]
+}
