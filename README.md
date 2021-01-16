@@ -8,4 +8,5 @@
 * Framework, design and handling of threads for above-mentioned applications.
 
 ### Intended learning outcomes
+
 After a pass mark on course, the student should be able to develop distributed applications that communicate with different communication paradigms and then use appropriate design and architecture.
