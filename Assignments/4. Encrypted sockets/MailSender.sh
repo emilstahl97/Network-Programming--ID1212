@@ -1,0 +1,2 @@
+javac MailSenderServer.java
+java MailSenderServer
